@@ -3,7 +3,7 @@ Dive into the data job market! Focusing on data engineering roles, this project
 explores top-paying jobs, in-demand skills, and where high demand meets high 
 salry in data engineering.
 
-SQL queries? Check them out here: [sql_project foclder](/sql_project/)
+SQL queries? Check them out here: [sql_project folder](/sql_project/)
 
 # Background
 This project was inspired by a desire to better navigate the data engineering job market by identifying the most in-demand and highest-paying skills, making it easier for others to find the best job opportunities.
