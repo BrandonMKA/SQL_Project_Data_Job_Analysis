@@ -262,4 +262,4 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 
 ### Closing Thoughts
 
-This priject enhanced my SQL skills and provided valuable insights into the data engineering job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data engineers can better position themselves in a competetive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data engineering.
+This project enhanced my SQL skills and provided valuable insights into the data engineering job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data engineers can better position themselves in a competetive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data engineering.
